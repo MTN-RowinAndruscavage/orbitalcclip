@@ -3,6 +3,10 @@ Replacement C clip for a Sachtler Flowtech Aktiv10 orbital mount
 
 These things are easy to lose.  Here's a replacement for 3D printing created from eyeballing the dimensions.
 
+![image](https://github.com/MTN-RowinAndruscavage/orbitalcclip/assets/8740187/978d561d-3552-435c-865f-311c56f35014)
+
+![image](https://github.com/MTN-RowinAndruscavage/orbitalcclip/assets/8740187/758b9149-3aac-487a-b5af-82c60f7d2831)
+
 If you want to make any adjustments to the model size/shape, here's the pipeline for recreating the .stl :
 
 ## Installation on Debian / Ubuntu / WSL
